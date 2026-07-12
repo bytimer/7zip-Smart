@@ -154,8 +154,8 @@ Directory Opus 按钮中调用
 
 ### 7. UI 与视觉美化
 
-* **图标替换**：替换来自 [Auto7zip](https://gitee.com/sanhu120/Auto7zip) 的工具栏美化图标。
-* **图标替换**：替换来自 [Auto7zip](https://gitee.com/sanhu120/Auto7zip) 的工具栏美化图标。
+* **工具栏图标替换**：替换来自 [Auto7zip](https://gitee.com/sanhu120/Auto7zip) 的工具栏美化图标。
+* **关联图标替换**：替换来自 [mefcl.com](https://www.mefcl.com/7zip.html) Anonymous组的27个关联格式图标。(修改了rar.ico)
 * **字体可调**：在 `选项` -> `设置` 界面中新增 **`[设置字体]`** 按钮。弹框可更改字体名称、字号大小及字形，配置实时保存于注册表。
 
 ---
