@@ -10,19 +10,19 @@ Modified 7-Zip's source code to add smart extraction, automatic password list at
 
 ## 截图
 右键菜单  
-<img width="423" height="155" alt="image" src="https://github.com/user-attachments/assets/0bb784f7-7084-4bbd-84f1-4c5919f3b665" />  
+![右键菜单](Screenshots/1.右键菜单%20智能解压.png) 
 
 密码输入框  
-<img width="566" height="364" alt="image" src="https://github.com/user-attachments/assets/d6eee261-67fe-4d01-9ceb-9ab534419704" />  
+![密码输入框增强](Screenshots/2.密码输入框%20增加密码记录和自动尝试.png) 
 
 选项/解压 设置页面  
-<img width="498" height="329" alt="image" src="https://github.com/user-attachments/assets/3b0850d0-42d3-4322-8f1a-c2dbfc4a85de" />  
+![右键菜单](Screenshots/3.选项%20解压%20设置页面.png) 
 
 选项 设置字体 大小(自动列)  
-<img width="757" height="815" alt="image" src="https://github.com/user-attachments/assets/7f310815-c885-4b58-a696-d58a8bf9e543" />  
+![右键菜单](Screenshots/4.选项%20设置字体%20增加行号列和大小(自动列)%20显示注释.png) 
 
 Directory Opus 按钮中调用  
-<img width="682" height="484" alt="image" src="https://github.com/user-attachments/assets/e7a87d09-8737-40dc-ae4e-159617387f3c" />
+![右键菜单](Screenshots/8.Directory%20Opus%20按钮中调用.png) 
 
 
 ---
@@ -64,6 +64,7 @@ Directory Opus 按钮中调用
 * **右键菜单集成**：
 * 文件右键弹出菜单新增 **“智能解压”** 项，并将其移至解压系列菜单的**首位**。
 * 该右键菜单行为受 7zFM 中 `选项` -> `解压` -> `<智能解压时总是创建文件夹>` 勾选状态的控制。
+* 右键菜单 默认显示图标。
 
 
 ### 2. 7zFM 工具/选项「解压」标签页
@@ -126,11 +127,12 @@ Directory Opus 按钮中调用
 
 ### 5. 7zFM 支持 Ctrl+V 添加文件到压缩包
 
-当用 7zFM 打开压缩包时，按 Ctrl+V 可将剪贴板中文件添加到压缩包，与拖入文件相似。
-添加文件时 显示一个新的"添加到压缩包对话框"，有一些选项，可以设置密码。由此实现一个压缩包内 不同文件可以有不同密码。
-(致敬WinRAR的这项功能，非常方便)
+当用 7zFM 打开压缩包时，按 Ctrl+V 可将剪贴板中文件添加到压缩包，与拖入文件相似。  
+添加文件时 显示一个新的"添加到压缩包对话框"，有一些选项，可以设置密码。由此实现一个压缩包内 不同文件可以有不同密码。  
+(致敬WinRAR的这项功能，非常方便)  
+![添加文件到压缩包](Screenshots/7.按Ctrl+V添加文件到压缩包%20新增的对话框.png)
 
-### 5. 界面增强
+### 6. 界面增强
 
 #### 7zFM 管理器界面
 
@@ -149,7 +151,7 @@ Directory Opus 按钮中调用
 
 ---
 
-### 6. UI 与视觉美化
+### 7. UI 与视觉美化
 
 * **图标替换**：替换来自 [Auto7zip](https://gitee.com/sanhu120/Auto7zip) 的工具栏美化图标。
 * **图标替换**：替换来自 [Auto7zip](https://gitee.com/sanhu120/Auto7zip) 的工具栏美化图标。
