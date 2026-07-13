@@ -40,7 +40,8 @@ Directory Opus 按钮中调用
 | **`-cdel`** | **Del**ete | 解压成功后，彻底删除原压缩包。 |
 | **`-crb`** | **R**ecycle **B**in | 解压成功后，将压缩包移至回收站而非永久删除。 |
 | **`-cpwd<path>`** | **P**ass**w**or**d** | 自动尝试密码，支持指定外部密码 `.txt` 文件路径。 |
-| **`-cpm<path>`** | **P**assword **M**atch | 自动尝试密码，并将匹配的 "{filepath}"={password} 记入FilePasswords.txt |  
+| **`-cpm<path>`** | **P**assword **M**atch | 自动尝试密码，并将匹配的 "{filepath}"={password} 记入FilePasswords.txt |
+
 (-cdel -crb 一起使用时，是删除到回收站)
 **适用程序**：`7zG.exe 7z.exe 7za.exe`
 
