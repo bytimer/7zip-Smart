@@ -6,7 +6,7 @@ Modified 7-Zip's source code to add smart extraction, automatic password list at
 
 # 7-Zip Smart 增强版 基于v26.02版本修改
 
-本项目为 7-Zip 的修改增强版，旨在引入类似 Bandizip 的**智能解压**、**自动尝试解压密码**、**7zFM 文件管理器**功能增强、更现代的**美化图标**以及命令行自定义参数。
+本项目为 7-Zip 的修改增强版，旨在实现类似 Bandizip 的**智能解压**、**自动尝试解压密码**、**7zFM 文件管理器**功能增强、更现代的**美化图标**以及命令行自定义参数。
 
 ## 截图
 右键菜单  
