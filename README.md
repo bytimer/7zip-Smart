@@ -42,7 +42,7 @@ Directory Opus 按钮中调用
 | **`-cpwd<path>`** | **P**ass**w**or**d** | 自动尝试密码，支持指定外部密码 `.txt` 文件路径。 |
 | **`-cpm<path>`** | **P**assword **M**atch | 自动尝试密码，并将匹配的 "{filepath}"={password} 记入FilePasswords.txt |
 
-(-cdel -crb 一起使用时，是删除到回收站)
+(-cdel -crb 一起使用时，是删除到回收站)  
 **适用程序**：`7zG.exe 7z.exe 7za.exe`
 
 ---
